@@ -1,6 +1,6 @@
 ## WuJie 
 
-I am a 3nd year master student at Sun Yat-sen University. Currently, i am advised by Prof. Guanbin Li and Liang Lin at Human Cyber Physical Intelligence Integration Lab. 
+I am a 3nd year master student at Sun Yat-sen University. Currently, i am advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). 
 I was a research intern of Department of Computer Vision Technology (VIS), Baidu Inc. I received my B.Sc. Degree from Shantou University in 06/2017. 
 
 ### Markdown

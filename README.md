@@ -17,7 +17,7 @@ Email: wujie10558@gmail.com
 - Multimedia: Visual Captioning; Temporal Langugage Grounding
 - Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
-## Selected Publication
+## Publications
 
 - Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
 
@@ -33,3 +33,5 @@ Email: wujie10558@gmail.com
 
 
 ## Awards & Honors
+- 2019 Graduate National Scholarship
+- 2016 National Scholarship

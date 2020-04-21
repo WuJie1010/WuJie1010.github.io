@@ -25,6 +25,11 @@ Email: wujie10558@gmail.com
 
 - Jie Wu, Haifeng Hu, Yi Wu. Image Captioning via Semantic Guidance Attention and Consensus Selection Strategy. ACM Transactions on Multimedia Computing, Communications and Applications. (ACM-TOMM)( [[pdf](https://dl.acm.org/doi/abs/10.1145/3271485)]
 
--Jie Wu, Haifeng Hu, Liang Yang. Pseudo-3D Attention Transfer Network with Content-Aware Strategy for Image Captioning. ACM Transactions on Multimedia Computing, Communications and Applications.(ACM-TOMM)( [[pdf](https://dl.acm.org/doi/abs/10.1145/3336495)]
+- Jie Wu, Haifeng Hu, Liang Yang. Pseudo-3D Attention Transfer Network with Content-Aware Strategy for Image Captioning. ACM Transactions on Multimedia Computing, Communications and Applications.(ACM-TOMM)( [[pdf](https://dl.acm.org/doi/abs/10.1145/3336495)]
+
+- Jie Wu, Haifeng Hu. Cascade recurrent neural network for image caption generation. Electronics Letters. [[pdf](https://digital-library.theiet.org/content/journals/10.1049/el.2017.3159)]
+
+- Jie Wu, Siya Xie, Xinbao Shi, Yaowen Chen. Global-Local Feature Attention Network with Reranking Strategy for Image Caption Generation. CCCV 2017 &  Optoelectronics Letters. [[pdf](https://link.springer.com/chapter/10.1007/978-981-10-7299-4_13)]
+
 
 ## Awards & Honors

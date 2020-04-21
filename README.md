@@ -21,6 +21,10 @@ Email: wujie10558@gmail.com
 
 - Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
 
-- Jie Wu, Tianshui Chen, hefeng Wu, Zhi Yang, Qing Wang, Liang Lin. Concrete Image Captioning by integrating Content sensitive and Global Discriminative Objective (ICME2019) [pdf](https://ieeexplore.ieee.org/abstract/document/8784830)
+- Jie Wu, Tianshui Chen, hefeng Wu, Zhi Yang, Qing Wang, Liang Lin. Concrete Image Captioning by integrating Content sensitive and Global Discriminative Objective (ICME2019) [[pdf](https://ieeexplore.ieee.org/abstract/document/8784830)], [[code](https://github.com/WuJie1010/Fine-Grained-Image-Captioning)]
+
+- Jie Wu, Haifeng Hu, Yi Wu. Image Captioning via Semantic Guidance Attention and Consensus Selection Strategy. ACM Transactions on Multimedia Computing, Communications and Applications. (ACM-TOMM)( [[pdf](https://dl.acm.org/doi/abs/10.1145/3271485)]
+
+-Jie Wu, Haifeng Hu, Liang Yang. Pseudo-3D Attention Transfer Network with Content-Aware Strategy for Image Captioning. ACM Transactions on Multimedia Computing, Communications and Applications.(ACM-TOMM)( [[pdf](https://dl.acm.org/doi/abs/10.1145/3336495)]
 
 ## Awards & Honors

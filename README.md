@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## WuJie 
 
-You can use the [editor on GitHub](https://github.com/WuJie1010/WuJie1010.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a 3nd year master student at Sun Yat-sen University. Currently, i am advised by Prof. Guanbin Li and Liang Lin at Human Cyber Physical Intelligence Integration Lab. 
+I was a research intern of Department of Computer Vision Technology (VIS), Baidu Inc. I received my B.Sc. Degree from Shantou University in 06/2017. 
 
 ### Markdown
 

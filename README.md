@@ -9,14 +9,12 @@ Email: wujie10558@gmail.com
 ## New!
 
 ## Research Interest
--Computer Vision
-Anomaly Detction
-
--Multimedia
-Visual Captioning, Temporal Langugage Grounding
-
--Machine Learning
-Deep Learning, Reinforcement Learning, Weakly supervised learning
+### Computer Vision
+- Anomaly Detction
+### Multimedia
+- Visual Captioning, Temporal Langugage Grounding
+### Machine Learning
+- Deep Learning, Reinforcement Learning, Weakly supervised learning
 
 ## Selected Publication
 

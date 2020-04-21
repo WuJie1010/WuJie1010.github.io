@@ -7,14 +7,16 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- We rank first in the Anomaly detection Track of the 2020 AI CITY CHALLENGE (CVPR2020 Workshop) 
+- 2019.11 One papers is accepted by AAAI 2020.
 
 ## Research Interest
 ### Computer Vision
-- Anomaly Detction
+- Image Understanding; Anomaly Detction in Video
 ### Multimedia
-- Visual Captioning, Temporal Langugage Grounding
+- Visual Captioning; Temporal Langugage Grounding
 ### Machine Learning
-- Deep Learning, Reinforcement Learning, Weakly supervised learning
+- Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Selected Publication
 

@@ -19,6 +19,8 @@ Email: wujie10558@gmail.com
 
 ## Selected Publication
 
-- Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video (AAAI2020) [pdf](https://arxiv.org/pdf/2001.06680.pdf), [code](https://github.com/WuJie1010/TSP-PRL)
+- Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
+
+- Jie Wu, Tianshui Chen, hefeng Wu, Zhi Yang, Qing Wang, Liang Lin. Concrete Image Captioning by integrating Content sensitive and Global Discriminative Objective (ICME2019) [pdf](https://ieeexplore.ieee.org/abstract/document/8784830)
 
 ## Awards & Honors

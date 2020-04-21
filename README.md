@@ -8,8 +8,8 @@ Email: wujie10558@gmail.com
 
 ## New!
 
-- 2020.4 We rank first in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
-- 2019.11 One paper is accepted by AAAI 2020.
+- 2020.4: We rank first in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
+- 2019.11: One paper is accepted by AAAI 2020.
 
 ## Research Interest
 
@@ -28,7 +28,7 @@ Email: wujie10558@gmail.com
 
 
 ## Awards & Honors
-- 2020.4 Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
-- 2019 Graduate National Scholarship
-- 2017 Top graduates (6 in 2000+)   
-- 2016 National Scholarship
+- 2020.4: Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
+- 2019: Graduate National Scholarship
+- 2017: Top graduates (6 in 2000+)   
+- 2016: National Scholarship

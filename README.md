@@ -1,7 +1,7 @@
 ## Biography
 
-I am a 3nd year master student at Sun Yat-sen University. Currently, I am advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). 
-Currently, I am a research intern of [Department of Computer Vision Technology (VIS), Baidu Inc](http://research.baidu.com/Index). I received my B.Sc. Degree from Shantou University in 06/2017. 
+I received my Master Degree from Sun Yat-sen University in 06/2020. I was advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). 
+I was a research intern of [Department of Computer Vision Technology (VIS), Baidu Inc](http://research.baidu.com/Index) from 11/2019-06/2020. I received my B.Sc. Degree from Shantou University in 06/2017. 
 
 Email: wujie10558@gmail.com
 
@@ -32,7 +32,7 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 
 ## Awards & Honors
 - 2020.4: Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
-- 2020: Outstanding graduates of Sun Yat-sen University (Top% 5)
+- 2020: Outstanding graduates of Sun Yat-sen University (Top 5%)
 - 2020：The Most Outstanding Intern in Baidu (only 2 recipient in the Department), 2020 Q1
 - 2019: Graduate National Scholarship
 - 2017: Top graduates (6 in 2000+)   

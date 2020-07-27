@@ -7,7 +7,9 @@ Email: wujie10558@gmail.com
 
 
 ## New!
-
+- 2020.7: Two paper is accpeted by ACMMM 2020.
+- 2020.7: one paper is accepted by TMM.
+- 2020.7: We rank first in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 
 - 2020.4: We rank first in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
 - 2019.11: One paper is accepted by AAAI 2020.
 
@@ -18,7 +20,7 @@ Email: wujie10558@gmail.com
 - Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Publications
-
+- Jie Wu, Tianshui Chen, Hefeng Wu, Zhi Yang, Guangchun Luo, and Liang Lin. Fine-Grained Image Captioning with Global-Local Discriminative Objective. IEEE TRANSACTIONS ON MULTIMEDIA.(TMM) [[pdf](https://arxiv.org/pdf/2007.10662.pdf)], [[code](https://github.com/WuJie1010/Fine-Grained-Image-Captioning)]
 - Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
 - Yingying Li, Jie Wu, Xue Bai, Xipeng Yang, Xiao Tan, Guanbin Li, Shilei Wen, Hongwu Zhang, and Errui Ding.
 Multi-Granularity Tracking with Modularlized Components for Unsupervised Vehicles Anomaly Detection. In Proc. CVPR
@@ -31,6 +33,7 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 
 
 ## Awards & Honors
+- 2020.7: Top-1 in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 
 - 2020.4: Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
 - 2020: Outstanding graduates of Sun Yat-sen University (Top 5%)
 - 2020：The Most Outstanding Intern in Baidu (only 2 recipient in the Department), 2020 Q1

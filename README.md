@@ -22,6 +22,7 @@ Email: wujie10558@gmail.com
 - Jie Wu, Tianshui Chen, Lishan Huang, Guanbin Li, Ling Tian, and Liang Lin. Active Object Search. ACM Multimedia 2020.(ACMMM 2020)
 - Jie Wu, Tianshui Chen, Hefeng Wu, Zhi Yang, Guangchun Luo, and Liang Lin. Fine-Grained Image Captioning with Global-Local Discriminative Objective. IEEE Transactions on Multimedia.(TMM) [[pdf](https://arxiv.org/pdf/2007.10662.pdf)], [[code](https://github.com/WuJie1010/Fine-Grained-Image-Captioning)]
 - Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
+- Jie Wu, Yingying Li, Wei Zhang, Yi Wu, Xiao Tan, Hongwu Zhang, Shilei Wen, Errui Ding and Guanbin Li. Modularized Framework with Category-Sensitive Abnormal Filter for City Anomaly Detection. ACMMM2020 Multimedia Grand Challenge Track. [[code](https://github.com/WuJie1010/CitySCENE2020-Anomaly-Detection)]
 - Yingying Li, Jie Wu, Xue Bai, Xipeng Yang, Xiao Tan, Guanbin Li, Shilei Wen, Hongwu Zhang, and Errui Ding.
 Multi-Granularity Tracking with Modularlized Components for Unsupervised Vehicles Anomaly Detection. In Proc. CVPR
 Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Li_Multi-Granularity_Tracking_With_Modularlized_Components_for_Unsupervised_Vehicles_Anomaly_Detection_CVPRW_2020_paper.pdf)], [[code](https://github.com/WuJie1010/AICity2020-Anomaly-Detection)]

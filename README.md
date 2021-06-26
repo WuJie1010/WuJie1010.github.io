@@ -5,20 +5,24 @@ Email: wujie10558@gmail.com
 
 
 ## New!
-- 2020.7: Two paper is accpeted by ACMMM 2020.
+- 2021.4: one paper is accpeted by IJCAI 2021.
+- 2021.4: We rank second in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop).
+- 2020.7: Two papers are accpeted by ACMMM 2020.
 - 2020.7: one paper is accepted by TMM.
 - 2020.7: We rank first in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 
 - 2020.4: We rank first in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
 - 2019.11: One paper is accepted by AAAI 2020.
 
 ## Research Interest
-
+- AutoML: NAS, Distillation, GAN-Oriented Compression  
 - Computer Vision: Image Understanding; Video Unstanding; Anomaly Detction in Video
 - Multimedia: Visual Captioning; Temporal Langugage Grounding
 - Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Publications
-- Jie Wu, Guanbin Li, Xiaoguang Han, and Liang Lin. Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos. ACM Multimedia 2020.(ACMMM 2020)
+- Jie Wu, Guanbin Li, Xiaoguang Han, and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-21)
+- Jie Wu, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].
+- - Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos. ACM Multimedia 2020.(ACMMM 2020)[[pdf](https://arxiv.org/pdf/2009.08614)]
 - Jie Wu, Tianshui Chen, Lishan Huang, Guanbin Li, Ling Tian, and Liang Lin. Active Object Search. ACM Multimedia 2020.(ACMMM 2020) [[pdf](https://arxiv.org/abs/2008.00923)]
 - Jie Wu, Tianshui Chen, Hefeng Wu, Zhi Yang, Guangchun Luo, and Liang Lin. Fine-Grained Image Captioning with Global-Local Discriminative Objective. IEEE Transactions on Multimedia.(TMM) [[pdf](https://arxiv.org/pdf/2007.10662.pdf)], [[code](https://github.com/WuJie1010/Fine-Grained-Image-Captioning)]
 - Jie Wu, Guanbin Li, Si Liu, Liang Lin. Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video. (AAAI2020) [[pdf](https://arxiv.org/pdf/2001.06680.pdf)], [[code](https://github.com/WuJie1010/TSP-PRL)]
@@ -34,6 +38,7 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 
 
 ## Awards & Honors
+- 2021.4: Top-2 in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop) 
 - 2020.7: Top-1 in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 
 - 2020.4: Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 
 - 2020: Outstanding graduates of Sun Yat-sen University (Top 5%)

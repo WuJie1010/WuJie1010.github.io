@@ -1,5 +1,5 @@
 ## Biography
-Currently， I am a computer vision engineer in Bytedance AI Lab. I received my Master Degree from Sun Yat-sen University in 06/2020. I was advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). I was a research intern of [Department of Computer Vision Technology (VIS), Baidu Inc](http://research.baidu.com/Index) from 11/2019-06/2020. I received my B.Sc. Degree from Shantou University in 06/2017. 
+Currently， I am a computer vision engineer in Bytedance Intelligent Creation Lab. I received my Master Degree from Sun Yat-sen University in 06/2020. I was advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). I was a research intern of [Department of Computer Vision Technology (VIS), Baidu Inc](http://research.baidu.com/Index) from 11/2019-06/2020. I received my B.Sc. Degree from Shantou University in 06/2017. 
 
 Email: wujie10558@gmail.com
 

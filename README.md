@@ -21,7 +21,7 @@ Email: wujie10558@gmail.com
 - Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Publications
-- Yuxi Ren<sup>*</sup>, Jie Wu<sup>*</sup>, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021)
+- Yuxi Ren<sup>\ast</sup>, Jie Wu<sup>\ast</sup>, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021)
 - Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-2021)
 - Jie Wu, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].
 - Jie Wu, Guanbin Li, Xiaoguang Han, and Liang Lin. Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos. ACM Multimedia 2020.(ACMMM 2020)[[pdf](https://arxiv.org/pdf/2009.08614)]

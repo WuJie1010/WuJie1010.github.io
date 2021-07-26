@@ -5,6 +5,7 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2021.7: one paper is accpeted by ICCV 2021.
 - 2021.4: one paper is accpeted by IJCAI 2021.
 - 2021.4: We rank second in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop).
 - 2020.7: Two papers are accpeted by ACMMM 2020.
@@ -20,7 +21,8 @@ Email: wujie10558@gmail.com
 - Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Publications
-- Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-21)
+- Yuxi Ren*, Jie Wu*, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021)
+- Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-2021)
 - Jie Wu, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].
 - Jie Wu, Guanbin Li, Xiaoguang Han, and Liang Lin. Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos. ACM Multimedia 2020.(ACMMM 2020)[[pdf](https://arxiv.org/pdf/2009.08614)]
 - Jie Wu, Tianshui Chen, Lishan Huang, Guanbin Li, Ling Tian, and Liang Lin. Active Object Search. ACM Multimedia 2020.(ACMMM 2020) [[pdf](https://arxiv.org/abs/2008.00923)]

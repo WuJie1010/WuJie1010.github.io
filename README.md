@@ -17,11 +17,11 @@ Email: wujie10558@gmail.com
 ## Research Interest
 - AutoML: NAS, Distillation, GAN-Oriented Compression  
 - Computer Vision: Image Understanding; Video Unstanding; Anomaly Detction in Video
+- Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning; Semi supervised learning; Active learning
 - Multimedia: Visual Captioning; Temporal Langugage Grounding
-- Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning
 
 ## Publications
-- Yuxi Ren<sup>1</sup>, Jie Wu<sup>1</sup>, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021) [[pdf](https://arxiv.org/pdf/2108.06908.pdf)].
+- Yuxi Ren<sup>1</sup>, Jie Wu<sup>1</sup>, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021) [[pdf](https://arxiv.org/pdf/2108.06908.pdf)], [[code](https://github.com/bytedance/OMGD )]. 
 - Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-2021) [[pdf](https://arxiv.org/pdf/2108.03825.pdf)].
 - Jie Wu, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].
 - Jie Wu, Guanbin Li, Xiaoguang Han, and Liang Lin. Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos. ACM Multimedia 2020.(ACMMM 2020)[[pdf](https://arxiv.org/pdf/2009.08614)]

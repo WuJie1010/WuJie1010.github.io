@@ -5,6 +5,8 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2021.10: We rank first in the Action Recognition Track of the [Visual Inductive Priors for Data-Efficient Computer Vision” challenges](https://vipriors.github.io/challenges/) (ICCV2021 Workshop).
+- 2021.9: one paper is accpeted by NeurIPS 2021.
 - 2021.7: one paper is accpeted by ICCV 2021.
 - 2021.4: one paper is accpeted by IJCAI 2021.
 - 2021.4: We rank second in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop).
@@ -21,6 +23,7 @@ Email: wujie10558@gmail.com
 - Multimedia: Visual Captioning; Temporal Langugage Grounding
 
 ## Publications
+- ShaoJie Li, Jie Wu, Xuefeng Xiao, Fei Chao, Xudong Mao, Rongrong Ji. Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS-2021) .
 - Yuxi Ren<sup>1</sup>, Jie Wu<sup>1</sup>, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021) [[pdf](https://arxiv.org/pdf/2108.06908.pdf)], [[code](https://github.com/bytedance/OMGD )]. 
 - Jie Wu, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-2021) [[pdf](https://arxiv.org/pdf/2108.03825.pdf)].
 - Jie Wu, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].
@@ -40,6 +43,7 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 
 
 ## Awards & Honors
+- 2021.10: Top-1 in the Action Recognition Track of the [Visual Inductive Priors for Data-Efficient Computer Vision” challenges](https://vipriors.github.io/challenges/) (ICCV2021 Workshop) 
 - 2021.4: Top-2 in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop) 
 - 2020.7: Top-1 in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 
 - 2020.4: Top-1 in the Anomaly detection Track of the [2020 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2020 Workshop) 

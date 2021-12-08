@@ -5,6 +5,7 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2021.12: one paper is accpeted by AAAI 2022.
 - 2021.10: We rank first in the Action Recognition Track of the [Visual Inductive Priors for Data-Efficient Computer Vision Challenges](https://vipriors.github.io/challenges/) (ICCV2021 Workshop).
 - 2021.9: one paper is accpeted by NeurIPS 2021.
 - 2021.7: one paper is accpeted by ICCV 2021.
@@ -19,11 +20,12 @@ Email: wujie10558@gmail.com
 ## Research Interest
 - AutoML: NAS, Distillation, GAN-Oriented Compression  
 - Computer Vision: Image Understanding; Video Unstanding; Anomaly Detction in Video
-- Machine Learning: Deep Learning; Reinforcement Learning; Weakly supervised learning; Semi supervised learning; Active learning
+- Machine Learning: Weakly supervised learning; Semi supervised learning; Self supervised learning; Active learning; Reinforcement Learning
 - Multimedia: Visual Captioning; Temporal Langugage Grounding
 
 ## Publications
-- ShaoJie Li, **Jie Wu**, Xuefeng Xiao, Fei Chao, Xudong Mao, Rongrong Ji. Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS-2021) .
+- Jie Qin, **Jie Wu**, Xuefeng Xiao, Lujun Li, Xingang Wang. Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-2022).
+- ShaoJie Li, **Jie Wu**, Xuefeng Xiao, Fei Chao, Xudong Mao, Rongrong Ji. Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS-2021) [[pdf](https://openreview.net/pdf?id=79xCSCP6qs)], [[code](https://github.com/SJLeo/GCC)].
 - Yuxi Ren<sup>1</sup>, **Jie Wu<sup>1</sup>**, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021) [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Online_Multi-Granularity_Distillation_for_GAN_Compression_ICCV_2021_paper.pdf)], [[code](https://github.com/bytedance/OMGD )]. 
 - **Jie Wu**, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding and Liang Lin. Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video. International Joint Conference on Artificial Intelligence (IJCAI-2021) [[pdf](https://arxiv.org/pdf/2108.03825.pdf)].
 - **Jie Wu**, Xionghui Wang, Xuefeng Xiao, Yitong Wang. Box-level tube tracking and refinement for vehicles anomaly detection. In Proc. CVPR Workshops, (CVPRW 2021) Oral [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)].

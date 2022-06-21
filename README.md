@@ -55,4 +55,4 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 - 2020：The Most Outstanding Intern in Baidu (only 2 recipient in the Department), 2020 Q1
 - 2019: Graduate National Scholarship
 - 2017: Top graduates (6 in 2000+)   
-- 2016: National Scholarship
+- 2016, 2019: National Scholarship

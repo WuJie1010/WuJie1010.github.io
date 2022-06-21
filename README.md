@@ -46,7 +46,7 @@ Workshops, Seattle, WA, USA, 2020. (CVPRW 2020) Oral [[pdf](http://openaccess.th
 
 
 ## Awards & Honors
--2022.6: Top-1 in [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046) (CVPR2022 Workshop).
+- 2022.6: Top-1 in [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046) (CVPR2022 Workshop).
 - 2021.10: Top-1 in the Action Recognition Track of the [Visual Inductive Priors for Data-Efficient Computer Vision” challenges](https://vipriors.github.io/challenges/) (ICCV2021 Workshop) 
 - 2021.4: Top-2 in the Anomaly detection Track of the [2021 AI CITY CHALLENGE](https://www.aicitychallenge.org/) (CVPR2021 Workshop) 
 - 2020.7: Top-1 in the Specific Anomaly Detection Track of the [2020 CitySCENE CHALLENGE](https://cityscene.github.io/#/) (ACMMM2020 Multimedia Grand Challenge) 

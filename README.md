@@ -5,7 +5,7 @@ Email: wujie10558@gmail.com
 
 
 ## New!
-- 2022.07:  Two papers are accpeted by ECCV 2022.
+- 2022.07: Two papers are accpeted by ECCV 2022.
 - 2022.06: We rank first in the [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046) (CVPR2022 Workshop).
 - 2021.12: one paper is accpeted by AAAI 2022.
 - 2021.10: We rank first in the Action Recognition Track of the [Visual Inductive Priors for Data-Efficient Computer Vision Challenges](https://vipriors.github.io/challenges/) (ICCV2021 Workshop).
@@ -26,8 +26,8 @@ Email: wujie10558@gmail.com
 - Multimedia: Multimodal Generation, Visual Captioning; Temporal Langugage Grounding
 
 ## Publications
- Jie Qin<sup>1</sup>, **Jie Wu<sup>1</sup>**, Ming Li, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation. European Conference on Computer Vision 2022 (ECCV-2022).  [[pdf](https://arxiv.org/pdf/2208.10169.pdf)], [[code](https://github.com/JayQine/MGD-SSSS)].  
-Rui Yang，Hailong Ma, **Jie Wu**, Yansong Tang, Xuefeng Xiao, Min Zheng, Xiu Li. ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer. European Conference on Computer Vision 2022 (ECCV-2022). [[pdf](https://arxiv.org/pdf/2203.10790.pdf)], [[code](https://github.com/Yangr116/ScalableViT)].
+- Jie Qin<sup>1</sup>, **Jie Wu<sup>1</sup>**, Ming Li, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation. European Conference on Computer Vision 2022 (ECCV-2022).  [[pdf](https://arxiv.org/pdf/2208.10169.pdf)], [[code](https://github.com/JayQine/MGD-SSSS)].  
+- Rui Yang，Hailong Ma, **Jie Wu**, Yansong Tang, Xuefeng Xiao, Min Zheng, Xiu Li. ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer. European Conference on Computer Vision 2022 (ECCV-2022). [[pdf](https://arxiv.org/pdf/2203.10790.pdf)], [[code](https://github.com/Yangr116/ScalableViT)].
 - Jie Qin, **Jie Wu**, Xuefeng Xiao, Lujun Li, Xingang Wang. Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-2022). [[pdf](https://www.aaai.org/AAAI22Papers/AAAI-4538.JieQ.pdf)], [[code](https://github.com/JayQine/AMR)].  
 - ShaoJie Li, **Jie Wu**, Xuefeng Xiao, Fei Chao, Xudong Mao, Rongrong Ji. Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS-2021) [[pdf](https://openreview.net/pdf?id=79xCSCP6qs)], [[code](https://github.com/SJLeo/GCC)].
 - Yuxi Ren<sup>1</sup>, **Jie Wu<sup>1</sup>**, Xuefeng Xiao, Jianchao Yang. Online Multi-Granularity Distillation for GAN Compression. International Conference on Computer Vision (ICCV-2021) [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Online_Multi-Granularity_Distillation_for_GAN_Compression_ICCV_2021_paper.pdf)], [[code](https://github.com/bytedance/OMGD )]. 

@@ -5,6 +5,7 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2023.02: One paper is accpeted by CVPR 2023.
 - 2022.07: Two papers are accpeted by ECCV 2022.
 - 2022.06: We rank first in the [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046) (CVPR2022 Workshop).
 - 2021.12: one paper is accpeted by AAAI 2022.
@@ -26,6 +27,7 @@ Email: wujie10558@gmail.com
 - Multimedia: Multimodal Generation, Visual Captioning; Temporal Langugage Grounding
 
 ## Publications
+- Jie Qin<sup>1</sup>, **Jie Wu<sup>1</sup>**, Pengxiang Yan, Ming Li, Ren Yuxi, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. IEEE / CVF Computer Vision and Pattern Recognition Conference 2023 (CVPR-2023). [[Project Link](https://freeseg.github.io/)].  
 - Jie Qin<sup>1</sup>, **Jie Wu<sup>1</sup>**, Ming Li, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation. European Conference on Computer Vision 2022 (ECCV-2022).  [[pdf](https://arxiv.org/pdf/2208.10169.pdf)], [[code](https://github.com/JayQine/MGD-SSSS)].  
 - Rui Yang，Hailong Ma, **Jie Wu**, Yansong Tang, Xuefeng Xiao, Min Zheng, Xiu Li. ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer. European Conference on Computer Vision 2022 (ECCV-2022). [[pdf](https://arxiv.org/pdf/2203.10790.pdf)], [[code](https://github.com/Yangr116/ScalableViT)].
 - Jie Qin, **Jie Wu**, Xuefeng Xiao, Lujun Li, Xingang Wang. Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-2022). [[pdf](https://www.aaai.org/AAAI22Papers/AAAI-4538.JieQ.pdf)], [[code](https://github.com/JayQine/AMR)].  

@@ -22,6 +22,7 @@ Email: wujie10558@gmail.com
 - 2019.11: One paper is accepted by AAAI 2020.
 
 ## Research Interest
+- AIGC/LLM: RLHF, Data-Centric AIGC, Distillation
 - AutoML: Data-Centric AutoML, Distillation, GAN-Oriented Compression  
 - Computer Vision: Image Understanding; Video Unstanding; Anomaly Detction in Video
 - Machine Learning: Weakly supervised learning; Semi supervised learning; Self supervised learning; Active learning; Reinforcement Learning

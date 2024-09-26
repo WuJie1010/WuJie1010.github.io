@@ -5,6 +5,9 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2024.09: Two papers are accpeted by NeurIPS 2024.
+- 2024.07: One paper is accpeted by ACMMM 2024.
+- 2024.03: Two papers are accpeted by ECCV 2024.
 - 2023.07: Three papers are accpeted by ICCV 2023.
 - 2023.02: One paper is accpeted by CVPR 2023.
 - 2022.07: Two papers are accpeted by ECCV 2022.

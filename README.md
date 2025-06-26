@@ -5,6 +5,8 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2025.04: We Propose [seedream 3.0](https://seed.bytedance.com/seedream3_0), which tied for first place with gpt4-o in the Artificial Analysis Image Arena Leaderboard.
+- 2025.03: We Propose [seedream 2.0](https://seed.bytedance.com/seedream2_0), a native Chinese-English bilingual image generation foundation model.                      
 - 2024.09: Two papers are accpeted by NeurIPS 2024.
 - 2024.07: One paper is accpeted by ACMMM 2024.
 - 2024.03: Two papers are accpeted by ECCV 2024.

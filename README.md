@@ -1,14 +1,16 @@
 ## Biography
 Currently， I am a researcher in Bytedance Seed Team. I received my Master Degree from Sun Yat-sen University in 06/2020. I was advised by Prof. [Guanbin Li](http://guanbinli.com/) and [Liang Lin](http://www.linliang.net/) at [Human Cyber Physical Intelligence Integration Lab](http://www.sysu-hcp.net/home/). I was a research intern of [Department of Computer Vision Technology (VIS), Baidu Inc](http://research.baidu.com/Index) from 11/2019-06/2020. I received my B.Sc. Degree from Shantou University in 06/2017. 
 
+[Google Scholar](https://scholar.google.com/citations?user=MxvLqLcAAAAJ&hl)
+[Github](https://github.com/WuJie1010)
 Email: wujie10558@gmail.com
 
 
 ## New!
 - 2025.06: Two papers are accpeted by ICCV 2025.
-- 2025.06: We Propose [seedance 1.0](https://seed.bytedance.com/seedance), which ranks the first place in the Artificial Analysis Video Arena Leaderboard.
-- 2025.04: We Propose [seedream 3.0](https://seed.bytedance.com/seedream3_0), which tied for first place with gpt4-o in the Artificial Analysis Image Arena Leaderboard.
-- 2025.03: We Propose [seedream 2.0](https://seed.bytedance.com/seedream2_0), a native Chinese-English bilingual image generation foundation model.                      
+- 2025.06: We Propose [Seedance 1.0](https://seed.bytedance.com/seedance), which ranks the first place in the Artificial Analysis Video Arena Leaderboard.
+- 2025.04: We Propose [Seedream 3.0](https://seed.bytedance.com/seedream3_0), which tied for first place with gpt4-o in the Artificial Analysis Image Arena Leaderboard.
+- 2025.03: We Propose [Seedream 2.0](https://seed.bytedance.com/seedream2_0), a native Chinese-English bilingual image generation foundation model.                      
 - 2024.09: Two papers are accpeted by NeurIPS 2024.
 - 2024.07: One paper is accpeted by ACMMM 2024.
 - 2024.03: Two papers are accpeted by ECCV 2024.

@@ -5,6 +5,8 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2025.06: Two papers are accpeted by ICCV 2025.
+- 2025.06: We Propose [seedance 1.0](https://seed.bytedance.com/seedance), which ranks the first place in the Artificial Analysis Video Arena Leaderboard.
 - 2025.04: We Propose [seedream 3.0](https://seed.bytedance.com/seedream3_0), which tied for first place with gpt4-o in the Artificial Analysis Image Arena Leaderboard.
 - 2025.03: We Propose [seedream 2.0](https://seed.bytedance.com/seedream2_0), a native Chinese-English bilingual image generation foundation model.                      
 - 2024.09: Two papers are accpeted by NeurIPS 2024.
@@ -34,6 +36,7 @@ Email: wujie10558@gmail.com
 - Multimedia: Multimodal Generation, Visual Captioning; Temporal Langugage Grounding
 
 ## Publications
+- Yatai Ji, Jiacheng Zhang, **Jie Wu†</sup>**, etc,. Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM. (ICCV-2025) [[pdf](https://arxiv.org/abs/2412.15156)].
 - Jiacheng Zhang<sup>1</sup>, **Jie Wu<sup>1†</sup>**, Yuxi Ren, Xin Xia, Huafeng Kuang, Pan Xie, Jiashi Li, Xuefeng Xiao, Weilin Huang, Min Zheng, Lean Fu, Guanbin Li. UniFL: Improve Stable Diffusion via Unified Feedback Learning. (NeurIPS-2024) [[pdf](https://arxiv.org/pdf/2404.05595)].
 - Yuxi Ren<sup>1</sup>, **Jie Wu<sup>1†</sup>**, Yanzuo Lu<sup>1</sup>, Huafeng Kuang, Xin Xia, Xionghui Wang, Qianqian Wang, Yixing Zhu, Pan Xie, Shiyin Wang, Xuefeng Xiao, Yitong Wang, Min Zheng, Lean Fu. ByteEdit: Boost, Comply and Accelerate Generative Image Editing. (ECCV-2024) [[pdf](https://arxiv.org/pdf/2404.04860)].
 - Yuxi Ren, Xin Xia, Yanzuo Lu, Jiacheng Zhang, Jie Wu, Pan Xie, Xing Wang, Xuefeng Xiao. Hyper-sd: Trajectory segmented consistency model for efficient image synthesis. (NeurIPS-2024) [[pdf](https://arxiv.org/pdf/2404.13686)].

@@ -7,6 +7,9 @@ Email: wujie10558@gmail.com
 
 
 ## New!
+- 2026.02: We Propose [Seedance 2.0](https://seed.bytedance.com/seedance2_0), a native multimodal video-audio joint generation model.
+- 2026.02: Five papers are accpeted by CVPR 2026.
+- 2026.01: Two papers are accpeted by ICLR 2026.
 - 2025.06: Two papers are accpeted by ICCV 2025.
 - 2025.06: We Propose [Seedance 1.0](https://seed.bytedance.com/seedance), which ranks the first place in the Artificial Analysis Video Arena Leaderboard.
 - 2025.04: We Propose [Seedream 3.0](https://seed.bytedance.com/seedream3_0), which tied for first place with gpt4-o in the Artificial Analysis Image Arena Leaderboard.
